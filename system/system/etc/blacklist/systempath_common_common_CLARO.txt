@@ -1,0 +1,3 @@
+/system/app/FacebookManager-206BD
+/system/priv-app/FacebookServices-206BD
+/system/priv-app/FacebookInstaller-206BD
